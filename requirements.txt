@@ -1,0 +1,4 @@
+numpy>=1.19.0,<1.25.0
+tensorflow
+pandas
+matplotlib
